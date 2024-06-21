@@ -1,0 +1,48 @@
+
+
+body {
+    background-color: rgb(154, 200, 243)!important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(2, 2, 17);
+}
+
+.common{
+    background-color: #7ab1e0;
+    border: 2px solid rgb(136, 206, 250);
+    position: absolute;
+}
+
+.header {
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    height: 300px
+}
+
+.leftmenu {
+    top: 114px;
+    left: 5px;
+    width: 100px;
+    bottom: 39px
+}
+
+.mainbody{
+    top: 114px;
+    left:114px;
+    right: 114px;
+    bottom: 39px;
+}
+
+.rightmenu {
+    top: 114px;
+    right: 5px;
+    width: 100px;
+    bottom: 39px;
+}
+
+.footer {
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height :25px;
+}
